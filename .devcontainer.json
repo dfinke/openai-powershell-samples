@@ -1,0 +1,17 @@
+{
+    "image": "mcr.microsoft.com/dotnet/sdk:7.0",
+    "customizations":{
+        "vscode": {
+            "extensions": [
+                "ms-dotnettools.dotnet-interactive-vscode",
+                "ms-vscode.powershell"
+            ]
+        }
+    },
+    "containerEnv": {
+        "AOAI_DEPLOYMENTID": "",
+        "AOAI_ENDPOINT": "",
+        "AOAI_KEY": ""
+    },
+    // "postStartCommand": "bash download-vocab-files.sh",
+}
