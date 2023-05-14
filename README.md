@@ -15,4 +15,19 @@ Collection of OpenAI/Azure OpenAI samples written using the PowerShell AI module
 
 ### Generation
 
-[Airport code extractor](OpenAI-Samples/airport-code-extractor.ipynb)
+- [Airport code extractor](OpenAI-Samples\airport-code-extractor.ipynb)
+- [Calculate time complexity](OpenAI-Samples\calculate-time-complexity.ipynb)
+- [Create interview questions](OpenAI-Samples\create-interview-questions.ipynb)
+- [Extract contact information](OpenAI-Samples\extract-contact-information.ipynb)
+
+
+### Classification
+
+- [Classification](OpenAI-Samples\classification.ipynb)
+- [Extract keywords](OpenAI-Samples\extract-keywords.ipynb)
+
+### Code 
+
+- [Explain code](OpenAI-Samples\explain-code.ipynb)
+- [Powershell to natural language](OpenAI-Samples\csharp-to-natural-language.ipynb)
+- [Powershell bug fixer](OpenAI-Samples\powershell-bug-fixer.ipynb)
