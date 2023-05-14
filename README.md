@@ -29,5 +29,5 @@ Collection of OpenAI/Azure OpenAI samples written using the [PowerShell AI modul
 ### Code 
 
 - [Explain code](./OpenAI-Samples/explain-code.ipynb)
-- [Powershell to natural language](./OpenAI-Samples/csharp-to-natural-language.ipynb)
+- [Powershell to natural language](./OpenAI-Samples/powershell-to-natural-language.ipynb)
 - [Powershell bug fixer](./OpenAI-Samples/powershell-bug-fixer.ipynb)
