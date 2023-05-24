@@ -4,6 +4,8 @@
 
 Collection of OpenAI/Azure OpenAI samples written using the [PowerShell AI module](https://github.com/dfinke/PowerShellAI). Similar to the [OpenAI dotnet samples](https://github.com/Azure-Samples/openai-dotnet-samples).
 
+**📤 One-click setup**: [Open a new Codespace](https://codespaces.new/dfinke/openai-powershell-samples), giving you a fully configured cloud environment.
+
 ## Prerequisites
 
 - [Azure Account](https://aka.ms/free)
