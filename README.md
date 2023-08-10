@@ -6,6 +6,16 @@ Collection of OpenAI/Azure OpenAI samples written using the [PowerShell AI modul
 
 **📤 One-click setup**: [Open a new Codespace](https://codespaces.new/dfinke/openai-powershell-samples), giving you a fully configured cloud environment.
 
+<!-- 
+## Getting started
+
+1. **📤 One-click setup**: [Open a new Codespace](https://codespaces.new/azure-samples/openai-plugin-fastapi), giving you a fully configured cloud developer environment.
+2. **🪄 Make an API**: Add routes in `main.py`, done in a few minutes even without [FastAPI](https://fastapi.tiangolo.com/lo/tutorial/) experience, thanks to [GitHub Copilot](https://github.com/features/copilot/).
+3. **▶️ Run, one-click again**: Use VS Code's built-in *Run* command and open the forwarded port *8000* in your browser.
+4. **💬 Test in ChatGPT**: Copy the URL (make sure its public) and paste it in ChatGPT's [Develop your own plugin](https://platform.openai.com/docs/plugins/getting-started/debugging) flow.
+5. **🔄 Iterate quickly:** Codespaces updates the server on each save, and VS Code's debugger lets you dig into the code execution.
+-->
+
 ## Prerequisites
 
 - [Azure Account](https://aka.ms/free)
